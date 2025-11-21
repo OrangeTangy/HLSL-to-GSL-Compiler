@@ -1,0 +1,5 @@
+{
+  "name": "ShaderForge AI",
+  "description": "An intelligent shader language transpiler and editor. Write HLSL, GLSL, or WGSL, and instantly compile to other formats using Gemini 2.5. Features a live WebGL preview for GLSL outputs.",
+  "requestFramePermissions": []
+}
